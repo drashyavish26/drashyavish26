@@ -1,8 +1,8 @@
 ## Hi there 👋
- I'm Drashya Vish
+ I'm Drashya Vishwakarma
 
 🎓 First Year B.Tech Student  
-💻 Branch: [Write your branch]  
+💻 Branch: CS specialixation in AIML  
 🚀 Interested in learning programming and building projects  
 
 ## Goals
