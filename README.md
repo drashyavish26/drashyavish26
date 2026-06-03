@@ -2,7 +2,7 @@
  I'm Drashya Vishwakarma
 
 🎓 First Year B.Tech Student  
-💻 Branch: CS specialixation in AIML  
+💻 Branch: CS specialization in AIML  
 🚀 Interested in learning programming and building projects  
 
 ## Goals
